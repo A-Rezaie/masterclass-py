@@ -1,2 +1,2 @@
 https://github.com/A-Rezaie/masterclass-py
-https://github.com/A-Rezaie/masterclass-py/tree/main/matrix_3x3
+https://github.com/A-Rezaie/masterclass-py/tree/main/longest_word_finder
