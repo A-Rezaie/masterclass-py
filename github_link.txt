@@ -1,2 +1,2 @@
 https://github.com/A-Rezaie/masterclass-py
-gui_simple_calculator/Gui_Simple_Calculator.py
+https://github.com/A-Rezaie/masterclass-py/blob/main/gui_simple_calculator/Gui_Simple_Calculator.py
