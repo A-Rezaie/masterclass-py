@@ -3,3 +3,4 @@ https://github.com/A-Rezaie/masterclass-py/blob/main/gui_simple_calculator/Gui_S
 https://github.com/A-Rezaie/masterclass-py/blob/main/pyside_countdown_timer/Countdown_Timer.py
 https://github.com/A-Rezaie/masterclass-py/tree/main/kivy_image_gallery
 https://github.com/A-Rezaie/masterclass-py/blob/main/flask-portfolio/main.py
+https://github.com/A-Rezaie/masterclass-py/blob/main/task-list/app.py
